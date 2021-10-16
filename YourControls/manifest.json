@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "MISC",
+  "title": "YourControls",
+  "manufacturer": "",
+  "creator": "Sequal32",
+  "package_version": "2.5.17",
+  "minimum_game_version": "1.15.10",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

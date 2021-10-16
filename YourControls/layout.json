@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "date": 132788852490000000,
+      "path": "html_ui/Pages/VCockpit/Core/VCockpit.js",
+      "size": 23249
+    },
+    {
+      "date": 132788852490000000,
+      "path": "html_ui/YourControls/HTMLEvents.js",
+      "size": 3554
+    },
+    {
+      "date": 132788852490000000,
+      "path": "html_ui/YourControls/HTMLTrigger.js",
+      "size": 1191
+    },
+    {
+      "date": 132788852490000000,
+      "path": "html_ui/YourControls/Main.js",
+      "size": 3341
+    },
+    {
+      "date": 132788852490000000,
+      "path": "html_ui/YourControls/Network.js",
+      "size": 2786
+    },
+    {
+      "date": 132788852490000000,
+      "path": "modules/YourControlGauge.wasm",
+      "size": 1682107
+    }
+  ]
+}
